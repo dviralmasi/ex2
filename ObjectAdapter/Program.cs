@@ -7,7 +7,7 @@ using SearchAlgorithmsLib;
 namespace ObjectAdapter
 {
     /// <summary>
-    /// class for main
+    /// class for main.
     /// </summary>
     class Program
     {
