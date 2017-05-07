@@ -9,8 +9,8 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Configuration;
- 
-namespace View
+
+namespace GUI.ClientModel
 {
     /// <summary>
     /// the client class 
@@ -60,9 +60,9 @@ namespace View
                         Console.WriteLine("Error in socket");
                     }
                     Console.WriteLine("You are connected");
-                     stream = client.GetStream();
-                     reader = new StreamReader(stream);
-                     writer = new StreamWriter(stream);
+                    stream = client.GetStream();
+                    reader = new StreamReader(stream);
+                    writer = new StreamWriter(stream);
                 }
                 // Send data to server
                 //split the input and check
@@ -78,8 +78,8 @@ namespace View
                 //while for reading all the result
                 while (true)
                 {
-              // we add '@' char for each string that we want to print, and stop the printing 
-              // when we arrive this char.
+                    // we add '@' char for each string that we want to print, and stop the printing 
+                    // when we arrive this char.
                     string result = reader.ReadLine();
                     Console.WriteLine("{0}", result);
                     if (reader.Peek() == '@')
@@ -97,12 +97,12 @@ namespace View
                         //to keep the task open
                         while (true)
                         {
-                        // Send data to server
+                            // Send data to server
                             mission = Console.ReadLine();
                             writer.WriteLine(mission);
                             writer.Flush();
                         }
-                        
+
                     });
 
                     Task listenTask = new Task(() =>
@@ -132,7 +132,7 @@ namespace View
                                     break;
                                 }
                                 // if the input is not null, then print it
-                                if (result!= null)
+                                if (result != null)
                                 {
                                     Console.WriteLine("{0}", result);
                                     if (reader.Peek() == '@')
@@ -140,11 +140,12 @@ namespace View
                                         result.TrimEnd('\n');
                                         break;
                                     }
-                                } else
+                                }
+                                else
                                 {
                                     Thread.Sleep(1000);
                                 }
-       
+
                             }
                             reader.DiscardBufferedData();
                         }
@@ -154,7 +155,8 @@ namespace View
                     listenTask.Start();
                     sendingTask.Wait();
                     listenTask.Wait();
-                } else
+                }
+                else
                 {
                     //if single player close connection
                     client.Close();
