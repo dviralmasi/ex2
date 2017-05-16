@@ -1,0 +1,17 @@
+C:\Users\USER\Source\Repos\EX1\View\bin\Debug\View.exe.config
+C:\Users\USER\Source\Repos\EX1\View\obj\Debug\View.exe
+C:\Users\USER\Source\Repos\EX1\View\obj\Debug\View.pdb
+C:\Users\USER\Source\Repos\EX1\View\bin\Debug\View.exe
+C:\Users\USER\Source\Repos\EX1\View\bin\Debug\View.pdb
+C:\Users\USER\Source\Repos\EX1\View\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\Source\Repos\EX1\View\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\Source\Repos\EX1\View\obj\Debug\ClientSide.csprojResolveAssemblyReference.cache
+C:\Users\USER\Source\Repos\ex2\ClientSide\bin\Debug\View.exe.config
+C:\Users\USER\Source\Repos\ex2\ClientSide\obj\Debug\View.exe
+C:\Users\USER\Source\Repos\ex2\ClientSide\obj\Debug\View.pdb
+C:\Users\USER\Source\Repos\ex2\ClientSide\bin\Debug\View.exe
+C:\Users\USER\Source\Repos\ex2\ClientSide\bin\Debug\View.pdb
+C:\Users\USER\Source\Repos\ex2\ClientSide\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\Source\Repos\ex2\ClientSide\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\Source\Repos\ex2\ClientSide\obj\Debug\ClientSide.csprojResolveAssemblyReference.cache
+C:\Users\USER\Source\Repos\ex2\ClientSide\obj\Debug\View.g.resources

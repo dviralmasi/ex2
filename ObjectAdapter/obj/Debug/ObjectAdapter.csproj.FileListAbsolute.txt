@@ -1,0 +1,32 @@
+C:\Users\USER\Source\Repos\EX1\ObjectAdapter\bin\Debug\ObjectAdapter.exe.config
+C:\Users\USER\Source\Repos\EX1\ObjectAdapter\bin\Debug\ObjectAdapter.exe
+C:\Users\USER\Source\Repos\EX1\ObjectAdapter\bin\Debug\ObjectAdapter.pdb
+C:\Users\USER\Source\Repos\EX1\ObjectAdapter\bin\Debug\MazeGeneratorLib.dll
+C:\Users\USER\Source\Repos\EX1\ObjectAdapter\bin\Debug\MazeLib.dll
+C:\Users\USER\Source\Repos\EX1\ObjectAdapter\obj\Debug\ObjectAdapter.csprojResolveAssemblyReference.cache
+C:\Users\USER\Source\Repos\EX1\ObjectAdapter\obj\Debug\ObjectAdapter.exe
+C:\Users\USER\Source\Repos\EX1\ObjectAdapter\obj\Debug\ObjectAdapter.pdb
+C:\Users\USER\Source\Repos\EX1\ObjectAdapter\bin\Debug\SearchAlgorithmsLib.dll
+C:\Users\USER\Source\Repos\EX1\ObjectAdapter\bin\Debug\Priority Queue.dll
+C:\Users\USER\Source\Repos\EX1\ObjectAdapter\bin\Debug\SearchAlgorithmsLib.pdb
+C:\Users\USER\Source\Repos\EX1\ObjectAdapter\bin\Debug\Priority Queue.pdb
+C:\Users\USER\Source\Repos\EX1\ObjectAdapter\bin\Debug\Priority Queue.xml
+C:\Users\USER\Source\Repos\EX1\ObjectAdapter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\Source\Repos\EX1\ObjectAdapter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\Source\Repos\EX1\ObjectAdapter\bin\Debug\View.exe
+C:\Users\USER\Source\Repos\EX1\ObjectAdapter\bin\Debug\View.pdb
+C:\Users\USER\Source\Repos\ex2\ObjectAdapter\bin\Debug\ObjectAdapter.exe.config
+C:\Users\USER\Source\Repos\ex2\ObjectAdapter\bin\Debug\ObjectAdapter.exe
+C:\Users\USER\Source\Repos\ex2\ObjectAdapter\bin\Debug\ObjectAdapter.pdb
+C:\Users\USER\Source\Repos\ex2\ObjectAdapter\bin\Debug\MazeGeneratorLib.dll
+C:\Users\USER\Source\Repos\ex2\ObjectAdapter\bin\Debug\MazeLib.dll
+C:\Users\USER\Source\Repos\ex2\ObjectAdapter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\Source\Repos\ex2\ObjectAdapter\bin\Debug\SearchAlgorithmsLib.dll
+C:\Users\USER\Source\Repos\ex2\ObjectAdapter\bin\Debug\Priority Queue.dll
+C:\Users\USER\Source\Repos\ex2\ObjectAdapter\bin\Debug\SearchAlgorithmsLib.pdb
+C:\Users\USER\Source\Repos\ex2\ObjectAdapter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\Source\Repos\ex2\ObjectAdapter\bin\Debug\Priority Queue.pdb
+C:\Users\USER\Source\Repos\ex2\ObjectAdapter\bin\Debug\Priority Queue.xml
+C:\Users\USER\Source\Repos\ex2\ObjectAdapter\obj\Debug\ObjectAdapter.csprojResolveAssemblyReference.cache
+C:\Users\USER\Source\Repos\ex2\ObjectAdapter\obj\Debug\ObjectAdapter.exe
+C:\Users\USER\Source\Repos\ex2\ObjectAdapter\obj\Debug\ObjectAdapter.pdb

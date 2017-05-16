@@ -1,0 +1,20 @@
+C:\Users\USER\Source\Repos\EX1\Model\bin\Debug\Model.exe.config
+C:\Users\USER\Source\Repos\EX1\Model\bin\Debug\Model.exe
+C:\Users\USER\Source\Repos\EX1\Model\bin\Debug\Model.pdb
+C:\Users\USER\Source\Repos\EX1\Model\bin\Debug\MazeGeneratorLib.dll
+C:\Users\USER\Source\Repos\EX1\Model\bin\Debug\MazeLib.dll
+C:\Users\USER\Source\Repos\EX1\Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\Source\Repos\EX1\Model\bin\Debug\ObjectAdapter.exe
+C:\Users\USER\Source\Repos\EX1\Model\bin\Debug\SearchAlgorithmsLib.dll
+C:\Users\USER\Source\Repos\EX1\Model\bin\Debug\View.exe
+C:\Users\USER\Source\Repos\EX1\Model\bin\Debug\Priority Queue.dll
+C:\Users\USER\Source\Repos\EX1\Model\bin\Debug\ObjectAdapter.pdb
+C:\Users\USER\Source\Repos\EX1\Model\bin\Debug\SearchAlgorithmsLib.pdb
+C:\Users\USER\Source\Repos\EX1\Model\bin\Debug\View.pdb
+C:\Users\USER\Source\Repos\EX1\Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\Source\Repos\EX1\Model\bin\Debug\Priority Queue.pdb
+C:\Users\USER\Source\Repos\EX1\Model\bin\Debug\Priority Queue.xml
+C:\Users\USER\Source\Repos\EX1\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\USER\Source\Repos\EX1\Model\obj\Debug\Model.csproj.Model.exe.config
+C:\Users\USER\Source\Repos\EX1\Model\obj\Debug\Model.exe
+C:\Users\USER\Source\Repos\EX1\Model\obj\Debug\Model.pdb

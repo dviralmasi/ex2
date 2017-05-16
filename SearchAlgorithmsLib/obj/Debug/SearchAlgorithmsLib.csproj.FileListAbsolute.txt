@@ -1,0 +1,26 @@
+C:\Users\USER\Source\Repos\EX1\SearchAlgorithmsLib\obj\Debug\SearchAlgorithmsLib.csprojResolveAssemblyReference.cache
+C:\Users\USER\Source\Repos\EX1\SearchAlgorithmsLib\bin\Debug\SearchAlgorithmsLib.dll
+C:\Users\USER\Source\Repos\EX1\SearchAlgorithmsLib\bin\Debug\SearchAlgorithmsLib.pdb
+C:\Users\USER\Source\Repos\EX1\SearchAlgorithmsLib\bin\Debug\MazeGeneratorLib.dll
+C:\Users\USER\Source\Repos\EX1\SearchAlgorithmsLib\bin\Debug\MazeLib.dll
+C:\Users\USER\Source\Repos\EX1\SearchAlgorithmsLib\bin\Debug\Priority Queue.dll
+C:\Users\USER\Source\Repos\EX1\SearchAlgorithmsLib\bin\Debug\Priority Queue.pdb
+C:\Users\USER\Source\Repos\EX1\SearchAlgorithmsLib\bin\Debug\Priority Queue.xml
+C:\Users\USER\Source\Repos\EX1\SearchAlgorithmsLib\obj\Debug\SearchAlgorithmsLib.dll
+C:\Users\USER\Source\Repos\EX1\SearchAlgorithmsLib\obj\Debug\SearchAlgorithmsLib.pdb
+C:\Users\USER\Source\Repos\EX1\SearchAlgorithmsLib\bin\Debug\SearchAlgorithmsLib.dll.config
+C:\Users\USER\Source\Repos\EX1\SearchAlgorithmsLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\Source\Repos\EX1\SearchAlgorithmsLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\Source\Repos\ex2\SearchAlgorithmsLib\bin\Debug\SearchAlgorithmsLib.dll.config
+C:\Users\USER\Source\Repos\ex2\SearchAlgorithmsLib\bin\Debug\SearchAlgorithmsLib.dll
+C:\Users\USER\Source\Repos\ex2\SearchAlgorithmsLib\bin\Debug\SearchAlgorithmsLib.pdb
+C:\Users\USER\Source\Repos\ex2\SearchAlgorithmsLib\bin\Debug\MazeGeneratorLib.dll
+C:\Users\USER\Source\Repos\ex2\SearchAlgorithmsLib\bin\Debug\MazeLib.dll
+C:\Users\USER\Source\Repos\ex2\SearchAlgorithmsLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\Source\Repos\ex2\SearchAlgorithmsLib\bin\Debug\Priority Queue.dll
+C:\Users\USER\Source\Repos\ex2\SearchAlgorithmsLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\Source\Repos\ex2\SearchAlgorithmsLib\bin\Debug\Priority Queue.pdb
+C:\Users\USER\Source\Repos\ex2\SearchAlgorithmsLib\bin\Debug\Priority Queue.xml
+C:\Users\USER\Source\Repos\ex2\SearchAlgorithmsLib\obj\Debug\SearchAlgorithmsLib.dll
+C:\Users\USER\Source\Repos\ex2\SearchAlgorithmsLib\obj\Debug\SearchAlgorithmsLib.pdb
+C:\Users\USER\Source\Repos\ex2\SearchAlgorithmsLib\obj\Debug\SearchAlgorithmsLib.csprojResolveAssemblyReference.cache
